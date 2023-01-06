@@ -33,7 +33,7 @@
 
 ![Website Preview](/images/screenshot.png)
 
-In this project, I experiment with HTML5, CSS3 and JS to build a phootgraphy portfolio page.
+In this project, I experiment with HTML5, CSS3 and JS to build a photography portfolio page.
 I then host it on Github Pages.
 
 This is my very first step into web development as a hobby.
