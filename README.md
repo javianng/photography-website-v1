@@ -76,18 +76,6 @@ Project Link: [https://javianng.github.io/thecode_photography_website/](https://
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-I have referenced and borrowed the codes from the following websites.
-
-- https://github.com/prabinmagar/photographer-portfolio-site-html-css
-- https://codepen.io/cycosta/pen/wvMeNoJ
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [GitHub-shield]: https://img.shields.io/badge/-GitHub-lightgrey?style=for-the-badge&logo=github&colorB=555
